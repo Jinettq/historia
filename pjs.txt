@@ -1,3 +1,7 @@
 elefante
 leon
 jirafa
+tigres
+oso
+hipopotamo
+hormigas
